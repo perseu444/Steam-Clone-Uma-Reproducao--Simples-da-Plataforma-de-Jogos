@@ -1,0 +1,61 @@
+.usericon{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 10px;
+    padding-bottom: 40px;
+}
+.usericon p{
+    font-size: 11px;
+    
+}
+
+.userlabel{
+    padding-top: 5px !important;
+    color: #b8b6b4;
+}
+
+.username{
+    gap: 5px !important;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+.username:hover{
+    color: #fff;
+    cursor: pointer;
+}
+.usercoin:hover{
+    color: #fff;
+    cursor: pointer;
+}
+
+.botao1 {
+    background-color: #262d36;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    padding: 5px 10px;
+}
+.botao1 p{
+    font-size: 12px;
+    
+    
+}
+.botao1:hover{
+    background-color: #3d4450;
+    cursor: pointer;
+    
+}
+
+.botao2 {
+    background-color: #454c58;
+    padding: 4px 15px;
+    align-items: center;
+    color: #b8b6b4;
+}
+.botao2:hover{
+    background-color: #3d4450;
+    cursor: pointer;
+}

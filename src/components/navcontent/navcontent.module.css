@@ -1,0 +1,20 @@
+.navcontent ul{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    list-style: none;
+    
+}
+.navcontent ul li a{
+    color: #c9cbdf;
+    text-decoration: none;
+    font-weight: 600;
+}
+.navcontent a:hover{
+    color: #fff;
+}
+
+.navcontent a.checked{
+    color: #1a9fff;
+    border-bottom: 2px solid #1a9fff;
+}
