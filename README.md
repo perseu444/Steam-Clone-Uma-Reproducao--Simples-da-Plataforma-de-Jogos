@@ -16,8 +16,8 @@
 
 <ul>
   <li>Visualização dos jogos disponíveis</li>
-  <li>Pesquisa por títulos de jogos</li>
-  <li>Visualização de detalhes do jogo, como descrição, classificação, imagens e requisitos de sistema</li>
+  <li>Adicionar o jogo ao carrinho</li>
+  <li>Visualização de detalhes do jogo, como preço, descontos e imagens</li>
   <li>Interface intuitiva e responsiva</li>
 </ul>
 
