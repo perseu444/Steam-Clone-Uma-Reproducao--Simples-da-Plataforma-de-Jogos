@@ -1,7 +1,7 @@
 <h1 align="center">Steam Clone: Uma Reprodução Simples da Plataforma de Jogos em React e Next.js</h1>
 
 <p align="center">
-  <img src="steam-clone-logo.png" alt="Steam Clone Logo" width="200" height="200">
+  <img src="public/logo.svg" alt="Steam Clone Logo" width="200" height="200">
 </p>
 
 <p align="center">
