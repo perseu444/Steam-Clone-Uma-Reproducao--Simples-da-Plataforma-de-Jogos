@@ -7,6 +7,13 @@
     align-items: center;
     justify-content: space-between;
     gap: 8px;
-    margin-top: 15px;
+    margin-top: 20px;
 
+}
+
+.cardcontainer{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    margin-top: 20px;
 }

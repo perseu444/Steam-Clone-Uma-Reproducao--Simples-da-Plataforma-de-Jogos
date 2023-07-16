@@ -1,5 +1,6 @@
 .gamecard {
     display: flex;
+    background: linear-gradient(180deg, #2B87AE 0%, #287da2 100%);
 
 }
 

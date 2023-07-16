@@ -33,7 +33,12 @@ export default function Home() {
           </div>
           <div className={styles.session}>
             <Subtitle>Outros jogos</Subtitle>
-            <GaleCard />
+            <div className={styles.cardcontainer}>
+              <GaleCard />
+              <GaleCard />
+              <GaleCard />
+              <GaleCard />
+            </div>
           </div>
         </Container>
       </div>
