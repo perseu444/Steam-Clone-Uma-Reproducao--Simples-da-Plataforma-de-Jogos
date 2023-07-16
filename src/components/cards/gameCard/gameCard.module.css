@@ -40,3 +40,19 @@
     font-weight: 700;
     text-transform: uppercase;
 }
+
+@media (max-width: 700px){
+    .image{
+        width: 100%;
+        height: auto;
+        object-fit: contain;
+    }
+
+    .gamecard{
+        flex-direction: column;
+    }
+
+    .pricesection{
+        flex-direction: column;
+    }
+}

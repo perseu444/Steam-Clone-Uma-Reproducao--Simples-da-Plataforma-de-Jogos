@@ -18,3 +18,9 @@
     color: #1a9fff;
     border-bottom: 2px solid #1a9fff;
 }
+
+@media (max-width: 850px) {
+    .navtext{
+        display: none
+    }
+}
