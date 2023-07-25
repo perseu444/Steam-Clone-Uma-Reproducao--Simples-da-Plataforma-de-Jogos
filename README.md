@@ -48,7 +48,7 @@
   <li>Clone este repositório:</li>
 </ol>
 
-<pre><code>git clone [https://github.com/seu-usuario/steam-clone-react-nextjs.git](https://github.com/perseu444/Steam-Clone-Uma-Reprodu-o-Simples-da-Plataforma-de-Jogos)</code></pre>
+<pre><code>git clone https://github.com/perseu444/Steam-Clone-Uma-Reprodu-o-Simples-da-Plataforma-de-Jogos</code></pre>
 
 <ol start="2">
   <li>Navegue até o diretório do projeto:</li>
